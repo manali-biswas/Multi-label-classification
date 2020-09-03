@@ -1,4 +1,5 @@
 # Introduction 
+This work was done as a part of Microsoft Internship 2020.<br/>
 NLP Python Module which extracts meeting intent from the chat history passed as a string. It returns json response of confidence scores of meeting, urgent and none.
 
 # Getting Started
